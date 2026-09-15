@@ -195,6 +195,8 @@ Harness the power of io.net’s decentralized network through IO Cloud, your gat
 - **AI Agent x Crypto Framework**: [ai16z’sEliza](https://github.com/ai16z/eliza)
 - **Convincing AI Agent to Win Prize**: [Freysa](https://www.freysa.ai/)
 - **Jailbreak AI Models and Earn Crypto**: [Jailbreak](https://jailbreakme.xyz/)
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 ### Podcasts
 
